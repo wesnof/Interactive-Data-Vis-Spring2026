@@ -19,8 +19,6 @@ This page is where you can iterate. Follow the lab instructions in the [readme.m
 ```js
 function showAlert() {
     alert("JUMPSCARE!");
-    // or window.alert("JUMPSCARE!");
-
 }
 ```
 
