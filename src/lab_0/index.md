@@ -16,7 +16,10 @@ This page is where you can iterate. Follow the lab instructions in the [readme.m
 <img src="assets/appa.jpg" alt="my entire heart and soul">
 
 ```js
-//window.alert("JUMPSCARE")
+// window.alert("JUMPSCARE")
+console.log("beep")
+// const replay = view(Inputs.button
+("Replay");
 ```
 
 
