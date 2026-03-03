@@ -17,7 +17,7 @@ This page is where you can iterate. Follow the lab instructions in the [readme.m
 <img src="assets/appa.jpg" alt="my entire heart and soul">
 
 ```js
-function showAlert() {
+function showAlert(JUMPSCARE) {
     alert("JUMPSCARE!");
 }
 ```
