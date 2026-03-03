@@ -16,12 +16,7 @@ This page is where you can iterate. Follow the lab instructions in the [readme.m
 
 <img src="assets/appa.jpg" alt="my entire heart and soul">
 
-```js
-// window.alert(using every last brain cell)
-console.log("JUMPSCARE")
-// const replay = viewInputs.button
-("Replay");
-```
+
 
 
 
