@@ -13,13 +13,16 @@ This page is where you can iterate. Follow the lab instructions in the [readme.m
 
 
 &hearts;
+
 <img src="assets/appa.jpg" alt="my entire heart and soul">
 
+```js
 function showAlert() {
     alert("JUMPSCARE!");
     // or window.alert("JUMPSCARE!");
 
 }
+```
 
 
 
