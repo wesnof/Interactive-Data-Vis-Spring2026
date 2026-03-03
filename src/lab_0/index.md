@@ -7,7 +7,7 @@ This page is where you can iterate. Follow the lab instructions in the [readme.m
 
 ## THIS WAS A BRAIN BLAST 
 &hearts;
-<img src="appa.jpg" alt="my entire heart and soul">
+<img src="assets/appa.jpg" alt="my entire heart and soul">
 
 
 
